@@ -20,7 +20,7 @@ ___
 
 * Logistic Regression model + Original Data:
     * Accuracy: 0.99 - The classification report listed the model with a very high accuracy but it's not a perfect 1.00
-    * Precision: 1.00 eligible [0], 0.85 high risk [1] - For eligible cases the precision scored was rated as a 1.00 but for high risk cases it's reported as 0.85, this would result in some false positives coming through.
+    * Precision: 1.00 eligible [0], 0.85 high risk [1] - For eligible cases the precision score was rated as a 1.00 but for high risk cases it's reported as 0.85, this would result in some false positives coming through.
     * Recall: 0.99 eligible [0], 0.91 high risk [1] - With a recall score of 0.99, the model is able to properly analyze positive eligible cases, in other case for high risk applicants the model has resulted a score of 0.91. 
 
 ___
