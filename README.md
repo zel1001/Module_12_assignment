@@ -1,5 +1,5 @@
 # Module_12_assignment
-Utilizing Supervised Learning to detect credit risk & fraud.
+Utilizing Supervised Learning to detect credit risk.
 
 
 # Credit Risk & Supervised Learning
